@@ -9,8 +9,10 @@ A simple SwiftUI weather app that displays the current weather and forecast for 
 - **Day/Night Toggle**: A button to switch between day and night modes.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 18 54 10](https://github.com/prahul1590/SwiftUI-1/assets/156734352/16758f43-32e2-4312-ba34-8fc36418607f)
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 18 54 07](https://github.com/prahul1590/SwiftUI-1/assets/156734352/85967cac-5ff4-49d3-9079-ccd206b25e4e)
+
+<img src="https://github.com/prahul1590/SwiftUI-1/assets/156734352/16758f43-32e2-4312-ba34-8fc36418607f" alt="Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 18 54 10" width="300">
+
+<img src="https://github.com/prahul1590/SwiftUI-1/assets/156734352/85967cac-5ff4-49d3-9079-ccd206b25e4e" alt="Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 18 54 07" width="300">
 
 ## Requirements
 
